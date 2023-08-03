@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Author: Devin
+# Date: August 3, 2023
+
 # This script is used to modify the contents of the file named "answers.txt".
 # Specifically, it will remove the colon (:) and everything that follows it on each line.
 

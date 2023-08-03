@@ -1,0 +1,104 @@
+rm -rf html/icd365-gho/MPDF53/ADDED\ INFO\ FONTS.txt &&
+rm -rf html/icd365-gho/MPDF53/FONT\ INFO.txt &&
+rm -rf html/icd365-gho/MPDF53/ttfonts/Thai\ Fonts\ License.txt &&
+rm -rf html/icd365-gho/MPDF53/ttfonts/XB\ Riyaz.ttf &&
+rm -rf html/icd365-gho/MPDF53/ttfonts/XB\ RiyazBd.ttf &&
+rm -rf html/icd365-gho/MPDF53/ttfonts/XB\ RiyazBdIt.ttf &&
+rm -rf html/icd365-gho/MPDF53/ttfonts/XB\ RiyazIt.ttf &&
+rm -rf html/icd365-gho/MPDF53/ttfonts/XB\ Zar\ Bd.ttf &&
+rm -rf html/icd365-gho/MPDF53/ttfonts/XB\ Zar\ BdIt.ttf &&
+rm -rf html/icd365-gho/MPDF53/ttfonts/XB\ Zar\ It.ttf &&
+rm -rf html/icd365-gho/MPDF53/ttfonts/XB\ Zar.ttf &&
+rm -rf html/icd365-gho/MPDF53/ttfonts/XW\ Zar\ Font\ Info.txt &&
+rm -rf html/icd365-hia/MPDF53/ADDED\ INFO\ FONTS.txt &&
+rm -rf html/icd365-hia/MPDF53/FONT\ INFO.txt &&
+rm -rf html/icd365-hia/MPDF53/ttfonts/Thai\ Fonts\ License.txt &&
+rm -rf html/icd365-hia/MPDF53/ttfonts/XB\ Riyaz.ttf &&
+rm -rf html/icd365-hia/MPDF53/ttfonts/XB\ RiyazBd.ttf &&
+rm -rf html/icd365-hia/MPDF53/ttfonts/XB\ RiyazBdIt.ttf &&
+rm -rf html/icd365-hia/MPDF53/ttfonts/XB\ RiyazIt.ttf &&
+rm -rf html/icd365-hia/MPDF53/ttfonts/XB\ Zar\ Bd.ttf &&
+rm -rf html/icd365-hia/MPDF53/ttfonts/XB\ Zar\ BdIt.ttf &&
+rm -rf html/icd365-hia/MPDF53/ttfonts/XB\ Zar\ It.ttf &&
+rm -rf html/icd365-hia/MPDF53/ttfonts/XB\ Zar.ttf &&
+rm -rf html/icd365-hia/MPDF53/ttfonts/XW\ Zar\ Font\ Info.txt &&
+rm -rf html/icd365-hife/MPDF53/ADDED\ INFO\ FONTS.txt &&
+rm -rf html/icd365-hife/MPDF53/FONT\ INFO.txt &&
+rm -rf html/icd365-hife/MPDF53/ttfonts/Thai\ Fonts\ License.txt &&
+rm -rf html/icd365-hife/MPDF53/ttfonts/XB\ Riyaz.ttf &&
+rm -rf html/icd365-hife/MPDF53/ttfonts/XB\ RiyazBd.ttf &&
+rm -rf html/icd365-hife/MPDF53/ttfonts/XB\ RiyazBdIt.ttf &&
+rm -rf html/icd365-hife/MPDF53/ttfonts/XB\ RiyazIt.ttf &&
+rm -rf html/icd365-hife/MPDF53/ttfonts/XB\ Zar\ Bd.ttf &&
+rm -rf html/icd365-hife/MPDF53/ttfonts/XB\ Zar\ BdIt.ttf &&
+rm -rf html/icd365-hife/MPDF53/ttfonts/XB\ Zar\ It.ttf &&
+rm -rf html/icd365-hife/MPDF53/ttfonts/XB\ Zar.ttf &&
+rm -rf html/icd365-hife/MPDF53/ttfonts/XW\ Zar\ Font\ Info.txt &&
+rm -rf html/icd365-hp-off/MPDF53/ADDED\ INFO\ FONTS.txt &&
+rm -rf html/icd365-hp-off/MPDF53/FONT\ INFO.txt &&
+rm -rf html/icd365-hp-off/MPDF53/ttfonts/Thai\ Fonts\ License.txt &&
+rm -rf html/icd365-hp-off/MPDF53/ttfonts/XB\ Riyaz.ttf &&
+rm -rf html/icd365-hp-off/MPDF53/ttfonts/XB\ RiyazBd.ttf &&
+rm -rf html/icd365-hp-off/MPDF53/ttfonts/XB\ RiyazBdIt.ttf &&
+rm -rf html/icd365-hp-off/MPDF53/ttfonts/XB\ RiyazIt.ttf &&
+rm -rf html/icd365-hp-off/MPDF53/ttfonts/XB\ Zar\ Bd.ttf &&
+rm -rf html/icd365-hp-off/MPDF53/ttfonts/XB\ Zar\ BdIt.ttf &&
+rm -rf html/icd365-hp-off/MPDF53/ttfonts/XB\ Zar\ It.ttf &&
+rm -rf html/icd365-hp-off/MPDF53/ttfonts/XB\ Zar.ttf &&
+rm -rf html/icd365-hp-off/MPDF53/ttfonts/XW\ Zar\ Font\ Info.txt &&
+rm -rf html/icd365-hp1/MPDF53/ADDED\ INFO\ FONTS.txt &&
+rm -rf html/icd365-hp1/MPDF53/FONT\ INFO.txt &&
+rm -rf html/icd365-hp1/MPDF53/ttfonts/Thai\ Fonts\ License.txt &&
+rm -rf html/icd365-hp1/MPDF53/ttfonts/XB\ Riyaz.ttf &&
+rm -rf html/icd365-hp1/MPDF53/ttfonts/XB\ RiyazBd.ttf &&
+rm -rf html/icd365-hp1/MPDF53/ttfonts/XB\ RiyazBdIt.ttf &&
+rm -rf html/icd365-hp1/MPDF53/ttfonts/XB\ RiyazIt.ttf &&
+rm -rf html/icd365-hp1/MPDF53/ttfonts/XB\ Zar\ Bd.ttf &&
+rm -rf html/icd365-hp1/MPDF53/ttfonts/XB\ Zar\ BdIt.ttf &&
+rm -rf html/icd365-hp1/MPDF53/ttfonts/XB\ Zar\ It.ttf &&
+rm -rf html/icd365-hp1/MPDF53/ttfonts/XB\ Zar.ttf &&
+rm -rf html/icd365-hp1/MPDF53/ttfonts/XW\ Zar\ Font\ Info.txt &&
+rm -rf html/icd365-iba/MPDF53/ADDED\ INFO\ FONTS.txt &&
+rm -rf html/icd365-iba/MPDF53/FONT\ INFO.txt &&
+rm -rf html/icd365-iba/MPDF53/ttfonts/Thai\ Fonts\ License.txt &&
+rm -rf html/icd365-iba/MPDF53/ttfonts/XB\ Riyaz.ttf &&
+rm -rf html/icd365-iba/MPDF53/ttfonts/XB\ RiyazBd.ttf &&
+rm -rf html/icd365-iba/MPDF53/ttfonts/XB\ RiyazBdIt.ttf &&
+rm -rf html/icd365-iba/MPDF53/ttfonts/XB\ RiyazIt.ttf &&
+rm -rf html/icd365-iba/MPDF53/ttfonts/XB\ Zar\ Bd.ttf &&
+rm -rf html/icd365-iba/MPDF53/ttfonts/XB\ Zar\ BdIt.ttf &&
+rm -rf html/icd365-iba/MPDF53/ttfonts/XB\ Zar\ It.ttf &&
+rm -rf html/icd365-iba/MPDF53/ttfonts/XB\ Zar.ttf &&
+rm -rf html/icd365-iba/MPDF53/ttfonts/XW\ Zar\ Font\ Info.txt &&
+rm -rf html/icd365-igsf-off/MPDF53/ADDED\ INFO\ FONTS.txt &&
+rm -rf html/icd365-igsf-off/MPDF53/FONT\ INFO.txt &&
+rm -rf html/icd365-igsf-off/MPDF53/ttfonts/Thai\ Fonts\ License.txt &&
+rm -rf html/icd365-igsf-off/MPDF53/ttfonts/XB\ Riyaz.ttf &&
+rm -rf html/icd365-igsf-off/MPDF53/ttfonts/XB\ RiyazBd.ttf &&
+rm -rf html/icd365-igsf-off/MPDF53/ttfonts/XB\ RiyazBdIt.ttf &&
+rm -rf html/icd365-igsf-off/MPDF53/ttfonts/XB\ RiyazIt.ttf &&
+rm -rf html/icd365-igsf-off/MPDF53/ttfonts/XB\ Zar\ Bd.ttf &&
+rm -rf html/icd365-igsf-off/MPDF53/ttfonts/XB\ Zar\ BdIt.ttf &&
+rm -rf html/icd365-igsf-off/MPDF53/ttfonts/XB\ Zar\ It.ttf &&
+rm -rf html/icd365-igsf-off/MPDF53/ttfonts/XB\ Zar.ttf &&
+rm -rf html/icd365-igsf-off/MPDF53/ttfonts/XW\ Zar\ Font\ Info.txt &&
+rm -rf html/icd365-igsf/MPDF53/ADDED\ INFO\ FONTS.txt &&
+rm -rf html/icd365-igsf/MPDF53/FONT\ INFO.txt &&
+rm -rf html/icd365-igsf/MPDF53/ttfonts/Thai\ Fonts\ License.txt &&
+rm -rf html/icd365-igsf/MPDF53/ttfonts/XB\ Riyaz.ttf &&
+rm -rf html/icd365-igsf/MPDF53/ttfonts/XB\ RiyazBd.ttf &&
+rm -rf html/icd365-igsf/MPDF53/ttfonts/XB\ RiyazBdIt.ttf &&
+rm -rf html/icd365-igsf/MPDF53/ttfonts/XB\ RiyazIt.ttf &&
+rm -rf html/icd365-igsf/MPDF53/ttfonts/XB\ Zar\ Bd.ttf &&
+rm -rf html/icd365-igsf/MPDF53/ttfonts/XB\ Zar\ BdIt.ttf &&
+rm -rf html/icd365-igsf/MPDF53/ttfonts/XB\ Zar\ It.ttf &&
+rm -rf html/icd365-igsf/MPDF53/ttfonts/XB\ Zar.ttf &&
+rm -rf html/icd365-igsf/MPDF53/ttfonts/XW\ Zar\ Font\ Info.txt &&
+rm -rf html/icd365-pbx/MPDF53/ttfonts/XB\ Riyaz.ttf &&
+rm -rf html/icd365-pbx/MPDF53/ttfonts/XB\ RiyazBd.ttf &&
+rm -rf html/icd365-pbx/MPDF53/ttfonts/XB\ RiyazBdIt.ttf &&
+rm -rf html/icd365-pbx/MPDF53/ttfonts/XB\ RiyazIt.ttf &&
+rm -rf html/icd365-pbx/MPDF53/ttfonts/XB\ Zar\ Bd.ttf &&
+rm -rf html/icd365-pbx/MPDF53/ttfonts/XB\ Zar\ BdIt.ttf &&
+rm -rf html/icd365-pbx/MPDF53/ttfonts/XB\ Zar\ It.ttf &&
+rm -rf html/icd365-pbx/MPDF53/ttfonts/XB\ Zar.ttf

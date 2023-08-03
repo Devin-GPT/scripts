@@ -1,23 +1,22 @@
 #!/bin/bash
 
-# Check if the file is provided as an argument
-if [ "$#" -ne 1 ]; then
-  echo "Usage: $0 <file_with_paths>"
+# Author: Devin
+# Date: August 3, 2023
+
+if [ $# -ne 1 ]; then
+  echo "Usage: $0 <file_path_list>"
   exit 1
 fi
 
-file_with_paths="$1"
+input_file="$1"
 
-# Check if the file exists
-if [ ! -f "$file_with_paths" ]; then
-  echo "File $file_with_paths does not exist!"
-  exit 2
+if [ ! -f "$input_file" ]; then
+  echo "Error: Input file not found."
+  exit 1
 fi
 
-# Read the lines from the file, remove whitespaces and execute the commands
-while IFS= read -r line; do
-  # Remove whitespaces
-  line_without_spaces=$(echo "$line" | tr -d ' ')
-  # Execute the command
-  eval "$line_without_spaces"
-done < "$file_with_paths"
+while IFS= read -r file_path; do
+  # Replace spaces with escape sequences
+  formatted_path=${file_path// /\\ }
+  echo "$formatted_path"
+done < "$input_file"

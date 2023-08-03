@@ -1,3 +1,6 @@
+# Author: Devin
+# Date: August 3, 2023
+
 # This script is used to modify the contents of the file named "answers.txt".
 # Specifically, it will add "rm -rf " at the beginning of each line and " &&" at the end of each line,
 # except for the last line, which will not have " &&" at the end.
