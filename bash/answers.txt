@@ -1,72 +1,116 @@
-rm -rf html/.DS_Store &&
-rm -rf html/CallFlow/.whotocall-callflow.php.swp &&
-rm -rf html/CallFlow/GetFile-2015-07-31.php &&
-rm -rf html/CallFlow/images/Thumbs.db &&
-rm -rf html/CallFlow/images/apply.gif &&
-rm -rf html/CallFlow/images/assurant-small.gif &&
-rm -rf html/CallFlow/images/assurant.gif &&
-rm -rf html/CallFlow/images/beechstreet.gif &&
-rm -rf html/CallFlow/images/bg.jpg &&
-rm -rf html/CallFlow/images/button.gif &&
-rm -rf html/CallFlow/images/calendar.jpg &&
-rm -rf html/CallFlow/images/chat.gif &&
-rm -rf html/CallFlow/images/closed.gif &&
-rm -rf html/CallFlow/images/current-bg.gif &&
-rm -rf html/CallFlow/images/definedhealthone-logo.gif &&
-rm -rf html/CallFlow/images/definedhealthone-small.gif &&
-rm -rf html/CallFlow/images/email.gif &&
-rm -rf html/CallFlow/images/excel.gif &&
-rm -rf html/CallFlow/images/green.gif &&
-rm -rf html/CallFlow/images/healthoptionone-logo.gif &&
-rm -rf html/CallFlow/images/healthoptionone-small.gif &&
-rm -rf html/CallFlow/images/logo.jpg &&
-rm -rf html/CallFlow/images/logo.jpg- &&
-rm -rf html/CallFlow/images/menu-bg.gif &&
-rm -rf html/CallFlow/images/multiplan.gif &&
-rm -rf html/CallFlow/images/next.gif &&
-rm -rf html/CallFlow/images/nonetwork.gif &&
-rm -rf html/CallFlow/images/open.gif &&
-rm -rf html/CallFlow/images/opticaahealth-small.gif &&
-rm -rf html/CallFlow/images/opticaahealth.gif &&
-rm -rf html/CallFlow/images/optimumonehealth-logo.gif &&
-rm -rf html/CallFlow/images/optimumonehealth-small.gif &&
-rm -rf html/CallFlow/images/pdf.gif &&
-rm -rf html/CallFlow/images/prev.gif &&
-rm -rf html/CallFlow/images/red.gif &&
-rm -rf html/CallFlow/images/redx.gif &&
-rm -rf html/CallFlow/images/safeguardplans-small.gif &&
-rm -rf html/CallFlow/images/safeguardplans.gif &&
-rm -rf html/CallFlow/images/soundicon.gif &&
-rm -rf html/CallFlow/images/unitedhealthone-small.gif &&
-rm -rf html/CallFlow/images/unitedhealthone.gif &&
-rm -rf html/CallFlow/images/usaselectchoice-small.gif &&
-rm -rf html/CallFlow/images/usasmall.gif &&
-rm -rf html/CallFlow/sortable.js &&
-rm -rf html/uploads/IO-1-20130607150948.pdf &&
-rm -rf html/uploads/IO-1-20130607151113.pdf &&
-rm -rf html/uploads/IO-10-20130611171615.pdf &&
-rm -rf html/uploads/IO-11-20130613091605.pdf &&
-rm -rf html/uploads/IO-12-20130613103428.pdf &&
-rm -rf html/uploads/IO-13-20130613172345.pdf &&
-rm -rf html/uploads/IO-15-20130619094037.pdf &&
-rm -rf html/uploads/IO-16-20130619094521.pdf &&
-rm -rf html/uploads/IO-17-20130625152014.pdf &&
-rm -rf html/uploads/IO-18-20130715173559.pdf &&
-rm -rf html/uploads/IO-19-20130723125602.pdf &&
-rm -rf html/uploads/IO-21-20130812090742.PDF &&
-rm -rf html/uploads/IO-22-20130827193734.pdf &&
-rm -rf html/uploads/IO-23-20131007095106.pdf &&
-rm -rf html/uploads/IO-24-20131007092713.pdf &&
-rm -rf html/uploads/IO-26-20131105113743.pdf &&
-rm -rf html/uploads/IO-27-20131114110557.pdf &&
-rm -rf html/uploads/IO-28-20131206125329.pdf &&
-rm -rf html/uploads/IO-34-20140602114350.pdf &&
-rm -rf html/uploads/IO-35-20140902125644.pdf &&
-rm -rf html/uploads/IO-36-20140910153240.tif &&
-rm -rf html/uploads/IO-37-20140919130621.pdf &&
-rm -rf html/uploads/IO-4-20130610131053.pdf &&
-rm -rf html/uploads/IO-42-20150126132139.pdf &&
-rm -rf html/uploads/IO-5-20130610164017.pdf &&
-rm -rf html/uploads/IO-7-20130611164637.pdf &&
-rm -rf html/uploads/IO-8-20130611165751.pdf &&
-rm -rf html/uploads/IO-9-20130610112536.pdf
+rm .DS_Store &&
+rm icdlmd.com/mas/!-2012-06-04-LMDDeliveryEngine.php &&
+rm leadtransfers.com/.DS_Store &&
+rm leadtransfers.com/lmd/calendarDateInput.js &&
+rm leadtransfers.com/lmd/check.all.js &&
+rm leadtransfers.com/nusoap/lib/nusoap.php~ &&
+rm var/.DS_Store &&
+rm var/www/.DS_Store &&
+rm var/www/producerbackoffice.com/.DS_Store &&
+rm var/www/producerbackoffice.com/html/.DS_Store &&
+rm var/www/producerbackoffice.com/html/backoffice/ProductWebService365-2014-06-27.php &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/alpha.png &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/alpha3.png &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/bayeux1.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/bg.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/bgbarcode.png &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/bgrock.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/borders2FF.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/borders2IE.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/borders3FF.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/borders3IE.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/borders4FF.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/borders4IE.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/bordersFF.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/bordersIE.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/bordersMPDF2.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/clematis.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/example01_basic.php &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/flowers-pattern.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/formsubmit.php &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/img1.png &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/img2.png &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/img3.png &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/img4.png &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/img5.png &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/index.php &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/loading.gif &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/mpdfstyleA4.css &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/sample_basic.pdf &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/sample_logoheader2.pdf &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/sample_orientation3.pdf &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/show_code.php &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/sunsetv.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/test.pdf &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger.bmp &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger.gif &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger.php &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger.wmf &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger2.png &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger2.wmf &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger24trns.png &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger300px300dpi.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger300px300dpi.png &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger300px72dpi.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger300px96dpi.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger300px96dpi.png &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger8trns.gif &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tiger8trns.png &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/tigercmyk.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/examples/windmill.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/font/ccourier.php &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/iccprofiles/sRGB_IEC61966-2-1.icc &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/includes/CJKdata.php &&
+rm var/www/producerbackoffice.com/html/backoffice3-beta/MPDF53/includes/out.php &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/alpha.gif &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/alpha.png &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/alpha3.png &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/bayeux1.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/bg.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/bgbarcode.png &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/bgrock.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/borders2FF.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/borders2IE.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/borders3FF.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/borders3IE.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/borders4FF.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/borders4IE.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/bordersFF.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/bordersIE.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/bordersMPDF2.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/clematis.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/firefox-48.png &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/flowers-pattern.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/goto.gif &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/img1.png &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/img2.png &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/img3.png &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/img4.png &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/img5.png &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/klematis.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/loading.gif &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/quran282.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/sample_basic.pdf &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/sample_logoheader2.pdf &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/sample_orientation3.pdf &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/sunset.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/sunsetv.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/test.pdf &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tiger &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tiger.bmp &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tiger.gif &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tiger.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tiger.png &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tiger.wmf &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tiger2.png &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tiger24trns.png &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tiger300px300dpi.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tiger300px300dpi.png &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tiger300px72dpi.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tiger300px96dpi.jpg &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tiger300px96dpi.png &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tiger8trns.gif &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tiger8trns.png &&
+rm var/www/producerbackoffice.com/html/backoffice3/MPDF53/examples/tigercmyk.jpg
